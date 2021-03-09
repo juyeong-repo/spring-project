@@ -16,14 +16,6 @@
 * 취소내역
 
 ##### 설계 및 구현
-* ERD
-
-회원가입
-https://user-images.githubusercontent.com/77119824/110493771-47567e80-8136-11eb-9159-4e76da175dfe.png
-
-예매내역,취소내역
-https://user-images.githubusercontent.com/77119824/110493747-41609d80-8136-11eb-9bb6-ef0670d019e2.png
-
 |name|role|
 |------|---|
 |signUp.jsp|회원가입화면|
